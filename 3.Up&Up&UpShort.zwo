@@ -1,0 +1,201 @@
+<workout_file>
+    <author>Terrence Mahon</author>
+    <name>3.Up &amp; UP &amp; UP</name>
+    <description> In cycling the best climbers are awarded the Polka Dot Jersey. Do you want to own that polka dot jersey at your next race? No better place to start than here. These 1 minute hill reps will prep you for that final surge up the mountain top. The hill climbs will start with a moderate grade and then move through the workout to the dreaded “beyond classification”. Each hill repeat jumps up every 20 seconds so get your low running gears ready to shift into action. Hold your speed through this session and the KOM/ QOM is yours for the taking. Hills… they&apos;re not just for the cyclists anymore!
+    </description>
+    <durationType>time</durationType>
+    <sportType>Run</sportType>
+    <tags> <tag name="ZA Run 2022"/> </tags>
+    
+    <category>Zwift Academy Run 2023</category>
+    <subcategory>Short</subcategory>    
+    <categoryIndex>3</categoryIndex>
+    <visibleAfterTime></visibleAfterTime>
+    <overrideHash></overrideHash>
+    <workout>
+        <Warmup Duration="540" PowerLow=".50" PowerHigh=".65" pace="1">
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+     </Warmup>
+
+        <SteadyState Duration="60" Power=".50" pace="1">
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+        </SteadyState>
+
+         <IntervalsT Repeat="4" OnDuration="20" OffDuration="40" OnPower=".95" OffPower=".50" pace="1">
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+     </IntervalsT>
+
+            <SteadyState Duration="60" Power=".50" pace="1" replacement_verb="1% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".75" pace="1" replacement_verb="3% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".75" pace="1" replacement_verb="4% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".75" pace="1" replacement_verb="5% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+
+            <SteadyState Duration="60" Power=".50" pace="1" replacement_verb="1% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".75" pace="1" replacement_verb="4% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".75" pace="1" replacement_verb="5% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".75" pace="1" replacement_verb="6% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="60" Power=".50" pace="1" replacement_verb="1% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".80" pace="1" replacement_verb="3% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".80" pace="1" replacement_verb="4% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".80" pace="1" replacement_verb="5% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="60" Power=".50" pace="1" replacement_verb="1% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".80" pace="1" replacement_verb="4% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".80" pace="1" replacement_verb="5% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="20" Power=".80" pace="1" replacement_verb="6% Incline">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+
+     <Cooldown Duration="180" PowerLow=".60" PowerHigh=".50" pace="1">
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+     </Cooldown>
+</workout>
+</workout_file>

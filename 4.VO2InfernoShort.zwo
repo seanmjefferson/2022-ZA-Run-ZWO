@@ -1,0 +1,238 @@
+<workout_file>
+    <author>Terrence Mahon</author>
+    <name>4.VO2 Inferno</name>
+    <description> I hope you like it hot &amp; spicy as the VO2 Inferno is about to begin. Be sure to  take advantage of the 4 minute warm up for this one as once you hit the main set the speed will be intense. The goal for this workout is to run through 2 sets of progressively shorter and faster VO2 reps (VO2 is the amount (volume) of oxygen your body uses while exercising as hard as you can) starting with a 90 second interval and working down to a fast 30 second finish. After a short break to catch your breath it is back at it for one final round. The program design is to hit near peak Heart Rate and take your speed well beyond 5k goal pace. Grab hold of this one and be ready to spin those legs. Cool down jogs don&amp;apos;t come soon enough in these sessions so stay focused and take it one rep at a time. 
+    </description>
+    <durationType>time</durationType>
+    <sportType>Run</sportType>
+    <tags> <tag name="ZA Run 2022"/> </tags>
+    
+    <category>Zwift Academy Run 2023</category>
+    <subcategory>Short</subcategory>    
+    <categoryIndex>4</categoryIndex>
+    <visibleAfterTime></visibleAfterTime>
+    <overrideHash></overrideHash>
+    <workout>
+        <Warmup Duration="240" PowerLow=".50" PowerHigh=".65" pace="1">
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+     </Warmup>
+
+        <SteadyState Duration="30" Power=".50" pace="1">
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+            <textevent timeoffset="" message="."/>
+        </SteadyState>
+
+         <IntervalsT Repeat="4" OnDuration="20" OffDuration="40" OnPower=".95" OffPower=".50" pace="1">
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+     </IntervalsT>
+
+            <SteadyState Duration="60" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+
+            <SteadyState Duration="90" Power="1" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="60" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="75" Power="1.02" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+
+            <SteadyState Duration="45" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="60" Power="1.04" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="45" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="45" Power="1.06" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="30" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="30" Power="1.08" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="90" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="90" Power="1" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="60" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="75" Power="1.02" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+
+            <SteadyState Duration="45" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="60" Power="1.04" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="45" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="45" Power="1.06" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="30" Power=".50" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+            <SteadyState Duration="30" Power="1.08" pace="1">
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+                <textevent timeoffset="" message="."/>
+            </SteadyState>
+     <Cooldown Duration="180" PowerLow=".60" PowerHigh=".50" pace="1">
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+         <textevent timeoffset="" message="."/>
+     </Cooldown>
+</workout>
+</workout_file>
